@@ -2,7 +2,7 @@
 ## Slicing dog image
 
 ## Project description
-### This python code is made to slice image in 20 pieces vertical and 20 pieces in horizontal. Then we get image with 4 dogs.
+ This python code is made to slice image in 20 pieces vertical and 20 pieces in horizontal. Then we get image with 4 dogs.
 
 ## Run code:
  1. Download code from Github;
